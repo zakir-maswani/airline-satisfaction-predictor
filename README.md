@@ -149,7 +149,7 @@ The Streamlit app accepts the following 22 input features via the sidebar:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/customer-satisfaction-prediction.git
+git clone https://github.com/zakir-maswani/airline-satisfication-prediction.git
 cd customer-satisfaction-prediction
 ```
 
@@ -221,8 +221,8 @@ This will regenerate `model.pkl` with the latest data.
 
 Built by **Zakir Ali** — Machine Learning Engineer
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zakir-maswani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakir-ali-572104339)
 
 ---
 
